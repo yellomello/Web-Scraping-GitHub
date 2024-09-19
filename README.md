@@ -2,6 +2,9 @@
 
 ## Objective
 The objective of this project is to perform web scraping on a selected website, extracting information related to GitHub topics and repositories. The primary focus is on gathering data such as topic titles, URLs, descriptions, repository names, usernames, stars, and repository URLs. The collected data will be stored in CSV format for further analysis.
+## Here's a sample output
+![image](https://github.com/user-attachments/assets/c89e3cdb-204b-4771-a044-770ed3148c31)
+
 
 ## Project Outline
 ### Step 1: Define the Scope
